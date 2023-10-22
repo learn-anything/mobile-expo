@@ -13,13 +13,13 @@ Includes:
 ## Setup
 
 ```
-yarn
+bun i
 ```
 
 ## Run
 
 ```
-yarn start
+bun start
 ```
 
 ## File structure
