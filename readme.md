@@ -1,8 +1,6 @@
 # LA Mobile app using Expo/RN
 
-In production it was chosen [NativeScript](https://nativescript.org) is to be used.
-
-Code for it [here](https://github.com/learn-anything/learn-anything.xyz/tree/dev/mobile).
+In production it was chosen [NativeScript](https://nativescript.org) is to be used. Code for it [here](https://github.com/learn-anything/learn-anything.xyz/tree/dev/mobile).
 
 Below is code created from [Ignite RN template](https://github.com/infinitered/ignite).
 
